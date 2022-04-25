@@ -1,15 +1,15 @@
 <div id="top"></div>
 
-```
+
 <h1 align="left">Simple guessing game</h1>
   <p align="left">
         Simple number guessing game created with JS 
        <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
   </p>
 </div>
+<br/>
+<br/>
 
-
-```
 
 ## About The Project
 <img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
