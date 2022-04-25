@@ -24,9 +24,6 @@ Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.co
 
 
 ## Acknowledgments
-
-- "The Complete JavaScript Course 2021: From Zero to Expert!"(https://www.udemy.com/course/the-complete-javascript-course/)
-
-["The Complete JavaScript Course 2021: From Zero to Expert!"](https://www.udemy.com/course/the-complete-javascript-course/).
+- Jonas Schmedtmann: ["The Complete JavaScript Course 2021: From Zero to Expert!"](https://www.udemy.com/course/the-complete-javascript-course/).
 
 <p align="center">(<a href="#top">back to top</a>)</p>
