@@ -4,6 +4,7 @@
   <p align="left">
         Simple number guessing game created with JS 
        <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
+  <br/>
   </p>
 </div>
 
