@@ -3,8 +3,8 @@
 
 <h1 align="left">Simple guessing game</h1>
   <p align="left">
-        Simple number guessing game, created with Vanilla Javascript. 
-Goal: learning JavaScript
+       Simple number guessing game, created with Vanilla Javascript.<br/>
+       Goal: learning JavaScript<br/>
        <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
   </p>
 </div>
