@@ -19,8 +19,8 @@
 
 ## Contact
 
-Stephanie Buijs - buijs.s@gmail.com
-Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.com/sbuijs/simple-guessing-game)
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.com/sbuijs/simple-guessing-game)<br/>
 
 
 ## Acknowledgments
