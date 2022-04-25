@@ -1,12 +1,7 @@
-
-
 <div id="top"></div>
-[![Contributors][contributors-shield]][contributors-url]
-
 
 <h3 align="center">Simple guessing game</h3>
-
-  <p align="center">
+  <p align="left">
         Simple number guessing game created with JS 
        <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
   </p>
