@@ -1,6 +1,7 @@
 <div id="top"></div>
 
-## <h1 align="left">Simple guessing game</h1>
+```
+<h1 align="left">Simple guessing game</h1>
   <p align="left">
         Simple number guessing game created with JS 
        <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
@@ -8,6 +9,7 @@
 </div>
 
 
+```
 
 ## About The Project
 <img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
@@ -30,4 +32,3 @@ Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.co
 
 
 <p align="center">(<a href="#top">back to top</a>)</p>
-
