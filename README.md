@@ -14,8 +14,7 @@
 <img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
 
 ## Built With
-Vanilla Javascript
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Vanilla Javascript
 
 
 ## Contact
@@ -26,7 +25,7 @@ Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.co
 
 ## Acknowledgments
 
-* []()"The Complete JavaScript Course 2021: From Zero to Expert!" https://www.udemy.com/course/the-complete-javascript-course/
+- "The Complete JavaScript Course 2021: From Zero to Expert!" https://www.udemy.com/course/the-complete-javascript-course/
 
 
 <p align="center">(<a href="#top">back to top</a>)</p>
